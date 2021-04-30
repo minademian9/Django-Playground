@@ -3,4 +3,4 @@
 # Author : Mina D
 django-admin startproject myproject
 python myproject/manage.py startapp myapp
-python manage.py migrate #optional for Paiza Cloud IDe
+python manage.py migrate 
